@@ -1,4 +1,4 @@
-# SOS-DOOM-PROJECT
+# Doom Project
 
 <p align="center">
   <img src="doom-logo-ds.png" alt="DOOM game logo" style="width: 50%;" />
